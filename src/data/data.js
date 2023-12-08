@@ -6,7 +6,7 @@ export const Food = [
     image:'https://www.jcpinto.co.uk/wp-content/uploads/2022/05/247A5915-2160x1440.jpg',
     infoLink: 'https://www.jcpinto.co.uk/menus/brunch/',
     text: 'Offering an innovative take on brunch, our restaurant is located in the heart of Pottergate, Norwich. Bringing Aussie, New Zealand and Amsterdam vibes to daytime dining.    With fresh, vibrant ingredients, sourced for quality and taste from our local suppliers, we make every dish in our kitchen to bring you food with flavour and inspiration.',
-    mapLink:'J.C. Pinto, 1 St John Maddermarket, Norwich NR2 1DN',
+    mapLink:'J.C.%20Pinto,%201%20St%20John%20Maddermarket,%20Norwich%20NR2%201DN',
   },
   {
     name:'Farmyard',
@@ -14,7 +14,7 @@ export const Food = [
     image:'https://farmyard.restaurant/wp-content/uploads/Farmyard-Hero-1-e1674643457981.jpg',
     infoLink: 'https://farmyard.restaurant/menu/',
     text: 'Minimalist bistro offering classic meat, fish & veggies cooked over charcoal plus wine & beer.',
-    mapLink:'Farmyard Restaurant',
+    mapLink:'Farmyard%20Restaurant',
   },
   {
     name:'Shiki',
@@ -22,7 +22,7 @@ export const Food = [
     image:'https://images.squarespace-cdn.com/content/v1/63612dbfacebf518e73226a2/1668204489810-IG56K8RZYH232IZK2KPX/Shiki-0020.jpg?format=1500w',
     infoLink: 'https://www.shikirestaurant.co.uk/',
     text: 'Shiki translates as "four seasons", and , indeed, this tastefully elegant fine dining restaurant takes its cue from the seasons, serving up both traditional and a modern take on Japanese cuisine – fascinating, expressive and made with top-notch ingredients. There are two set menus in the evening, which are supplemented by the brasserie selection at lunchtime.',
-    mapLink:'Shiki, 6 Tombland, Norwich NR3 1HE',
+    mapLink:'Shiki,%206%20Tombland,%20Norwich%20NR3%201HE',
   },
   {
     name:'F\'SH',
@@ -30,7 +30,7 @@ export const Food = [
     image:'https://images.squarespace-cdn.com/content/v1/62e04cb8fcbd423ef9e47edb/73cf2e84-18dd-4482-804c-14ec4bc4da2e/Norwich_BID_City_Food_Trail_Grosvenor-12.jpg?format=1500w',
     infoLink: 'https://www.fshshop.com/our-story',
     text: 'They\'ve been serving classic fish and chips here for nearly a century. Five years ago they decided to reinvent the traditional fish bar as a \'grotto\' complete with Airstream caravan and a revitalised menu that includes spicy cod and salsa, Wako Tacos and a Loony Toony battered tuna steak roll with wasabi mayo.',
-    mapLink:'Grosvenor Fish Bar, 28 Lower Goat Ln, Norwich NR2 1EL',
+    mapLink:'Grosvenor%20Fish%20Bar,%2028%20Lower%20Goat%20Ln,%20Norwich%20NR2%201EL',
   },
   {
     name:'BRIX AND BONES',
@@ -38,7 +38,7 @@ export const Food = [
     image:'https://images.squarespace-cdn.com/content/v1/5e28350dbf605a1b49da9980/d0fc9a8c-6544-4518-8133-d2561387d691/IMG-20220818-WA0004.jpg',
     infoLink: 'https://brixandbones.com/bones',
     text: 'Given the emphasis on fire-based cooking, diverse flavors, and a dedication to quality and uniqueness in ingredients, you can anticipate a menu featuring a range of dishes that might include grilled or fire-cooked items, globally inspired flavors, and a strong focus on seasonal, locally sourced, and sometimes foraged ingredients.',
-    mapLink:'Brix and Bones, London Street, Norwich',
+    mapLink:'Brix%20and%20Bones,%20London%20Street,%20Norwich',
   },
   {
     name:'giggling squid',
@@ -46,7 +46,7 @@ export const Food = [
     image:'https://www.boorooandtiggertoo.com/wp-content/uploads/2017/06/Giggling-Squid-Norwich.jpg',
     infoLink: 'https://www.gigglingsquid.com/menu/norwich/',
     text: 'Easygoing destination specializing in Thai staples, with an emphasis on seafood.',
-    mapLink:'Giggling Squid - Norwich, Tombland, Norwich',
+    mapLink:'Giggling%20Squid%20-%20Norwich,%20Tombland,%20Norwich',
   },
 
   {
@@ -55,7 +55,7 @@ export const Food = [
     image:'https://lh3.googleusercontent.com/p/AF1QipN67QTOkBmLoQ5bz_IuCRhH22aN8P5Gf09CBRBA=s680-w680-h510',
     infoLink: 'https://no33cafe.co.uk/menu/',
     text: 'Coffee drinks, light meals & baked goods, plus all-day brunch, served in upbeat surrounds.',
-    mapLink:'Cafe 33, Exchange Street, Norwich',
+    mapLink:'Cafe%2033,%20Exchange%20Street,%20Norwich',
   },
   
   {
@@ -64,7 +64,7 @@ export const Food = [
     image:'https://static.wixstatic.com/media/19e15d_cdc2b36b3c5c459ca4cc03fd582c2eac~mv2.jpeg/v1/fill/w_640,h_506,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/19e15d_cdc2b36b3c5c459ca4cc03fd582c2eac~mv2.jpeg',
     infoLink: 'https://www.dontxoko.com/menu',
     text: 'Classic Spanish eatery serving traditional tapas & mains made from carefully sourced ingredients.',
-    mapLink:'Don Txoko, Saint Benedicts Street, Norwich',
+    mapLink:'Don%20Txoko,%20Saint%20Benedicts%20Street,%20Norwich',
   },
   {
     name:'Jorge\'s Tasca',
@@ -72,7 +72,7 @@ export const Food = [
     image:'https://www.sugarvine.com/content/uploads/2022/03/go5.jpg',
     infoLink: 'https://www.jorgesrestaurant.co.uk/dinner-menu-at-jorges-restaurant',
     text: 'The Jorge\'s Tasca menu is a fusion between Portuguese and world food! We serve food all day starting with brunch, lunch and tapas dishes, bifanas and sharing.',
-    mapLink:'Jorge\'s Tasca, Pivotal House, Red Lion Street, Norwich',
+    mapLink:'Jorge\'s%20Tasca,%20Pivotal%20House,%20Red%20Lion%20Street,%20Norwich',
   }
 ]
 
@@ -83,7 +83,7 @@ export const drinks = [
     image:'https://cdn.visitnorwich.co.uk/app/uploads/2019/10/NorwichBid_LanesSummerFayre_July2019_HH003-1-2-1050x700.jpg',
     infoLink: 'https://www.visitnorwich.co.uk/service/upper-st-giles/',
     text: 'Beautiful street, amongst handsome Georgian structures and small shop fronts. Visit intimate restaurants, scandi bakeries and galleries. Browse antique baths, buy silk botanical designs. Stay a while, and stop for a glass of wine and a cheese board, well into the evening. This little street is most definitely one of Norwich’s best kept secrets. However, feel free to share with everyone.',
-    mapLink:'Upper St Giles St, Norwich',
+    mapLink:'Upper%20St%20Giles%20St,%20Norwich',
   },
   {
     name:'The Norwich Lanes',
@@ -91,7 +91,7 @@ export const drinks = [
     image:'https://cdn.visitnorwich.co.uk/app/uploads/2019/08/NorwichBid_LanesSummerFayre_July2019_HH009-1024x683.jpg',
     infoLink: 'https://norwichlanes.co.uk/',
     text: 'The award-winning Norwich Lanes is an area steeped in history and home to the city\'s finest independent shops, restaurants, cafes and bars.',
-    mapLink:'Norwich Lanes, Bridewell Alley, Norwich',
+    mapLink:'Norwich%20Lanes,%20Bridewell%20Alley,%20Norwich',
   },
 
   {
@@ -100,7 +100,7 @@ export const drinks = [
     image:'https://www.sandgshopfitters.co.uk/wp-content/uploads/2023/03/Yalm-Food-Court-.jpg',
     infoLink: 'https://www.yalm.co.uk/',
     text: 'YALM is an exciting multi-vendor foodhall and collection of bars located in the centre of Norwich. Based in the Royal Arcade',
-    mapLink:'Yalm Food Hall, The Royal Arcade, Norwich',
+    mapLink:'Yalm%20Food%20Hall,%20The%20Royal%20Arcade,%20Norwich',
   },
   {
     name:'Adam & Eve',
@@ -108,7 +108,7 @@ export const drinks = [
     image:'https://scontent.fbhx4-2.fna.fbcdn.net/v/t39.30808-6/305932307_502871075178232_3791150825662076929_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=923CN0Y5lP4AX-CRKJU&_nc_ht=scontent.fbhx4-2.fna&oh=00_AfAhtUfWZ0KEeLQP_ZGu8FYtngw0lUnvDkZo-sHkKEIMrQ&oe=657727B1',
     infoLink: 'https://www.adameve.pub/food',
     text: 'Legendary public house with comfort food set in a former monastery brewhouse with a seasonal garden.',
-    mapLink:'Adam and Eve, Bishopgate, Norwich',
+    mapLink:'Adam%20and%20Eve,%20Bishopgate,%20Norwich',
   },
   {
     name:'Last Pub Standing',
@@ -116,7 +116,7 @@ export const drinks = [
     image:'https://resizer.otstatic.com/v2/photos/wide-huge/2/42024144.jpg',
     infoLink: 'https://lpsnorwich.co.uk/',
     text: 'Pub fare from tapas to burgers served in a relaxed environment with live music & outdoor seating.',
-    mapLink:'Last Pub Standing, King Street, Norwich',
+    mapLink:'Last%20Pub%20Standing,%20King%20Street,%20Norwich',
   },
   {
     name:'Pogue Mahon\'s',
@@ -124,7 +124,7 @@ export const drinks = [
     image:'https://whatpub-new.s3.eu-west-1.amazonaws.com/images/pubs/400x300%402x/NOR-1374-37088096-pogue-mahons-norwich.jpg',
     infoLink: 'https://poguemahons.co.uk/eat-at-pogues/',
     text: 'This Irish pub has a 1920s feel and is set over four floors, including a cabaret club in the basement with a secret entrance. ',
-    mapLink:'Pogue Mahon\'s, Prince of Wales Road, Norwich',
+    mapLink:'Pogue%20Mahon\'s,%20Prince%20of%20Wales%20Road,%20Norwich',
   },
   {
     name:'The Fat Cat',
@@ -132,7 +132,7 @@ export const drinks = [
     image:'https://static.wixstatic.com/media/fb0a24_beacbcf176f046268cc4a3a26923f832~mv2.jpg/v1/crop/x_0,y_265,w_3802,h_2566/fill/w_630,h_408,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMG_3269-2%20(2).jpg',
     infoLink: 'https://www.fatcatpub.co.uk/',
     text: 'Specialist beer tavern stocking more than 30 real ales, an imported beer selection and bar snacks.',
-    mapLink:'The Fat Cat, West End Street, Norwich',
+    mapLink:'The%20Fat%20Cat,%20West%20End%20Street,%20Norwich',
   },
   {
     name:'The Rivergarden',
@@ -140,7 +140,7 @@ export const drinks = [
     image:'https://www.eveningnews24.co.uk/resources/images/16791377/?type=og-image',
     infoLink: 'https://www.therivergardennorwich.com/about-1',
     text: 'Historic Riverside Pub, built in 1650 as a coaching inn, with a riverside garden and a log fire, serving creative fare.',
-    mapLink:'The Rivergarden, Yarmouth Road, Norwich',
+    mapLink:'The%20Rivergarden,%20Yarmouth%20Road,%20Norwich',
   },
 ]
 
@@ -153,7 +153,7 @@ export const Activitys = [
     image:'https://cdn.visitnorwich.co.uk/app/uploads/2021/02/View-of-Norwich-skyline-from-Mousehold-Heath-1-of-1-45-1048x700.jpg',
     infoLink: 'https://www.visitnorwich.co.uk/service/mousehold-heath/',
     text: 'To find one of the best views of Norwich’s skyline head to Mousehold Heath, which is only a short walk to reach through Norwich Cathedral grounds, and over Bishop Bridge. The Heath has over 184 acres of woodland and heathland and is the perfect place for a walk with a view in all seasons. The area is rich in wildlife and locally is very well known for the history of Kett’s Rebellion which took place in 1549.',
-    mapLink:'Mousehold Heath, Heartsease Lane, Norwich',
+    mapLink:'Mousehold%20Heath,%20Heartsease%20Lane,%20Norwich',
   },
 
   {
@@ -162,7 +162,7 @@ export const Activitys = [
     image:'https://thesouthasiacollection.co.uk/wp-content/uploads/2020/08/banner-scaled.jpg',
     infoLink: 'https://thesouthasiacollection.co.uk/',
     text: 'South Asian furniture, textiles & art objects displayed in a former Victorian roller-skating rink.',
-    mapLink:'The South Asia Collection, The South Asia Collection, Bethel Street, Norwich',
+    mapLink:'The%20South%20Asia%20Collection,%20The%20South%20Asia%20Collection,%20Bethel%20Street,%20Norwich',
   },
   {
     name:'Pulls Ferry',
@@ -170,7 +170,7 @@ export const Activitys = [
     image:'https://www.aladyinlondon.com/wp-content/uploads/2019/04/2Q4A0706.jpg',
     infoLink: 'https://norfolktalesmyths.wordpress.com/2018/06/20/pulls-ferry-a-little-gem/',
     text: 'This picturesque 15th-century building served as a water gate, used for transporting goods from the River Wensum into the city. Its unique name originates from the word "pulls," referring to the heavy pulling work done by the ferryman who operated the ferry across the river.',
-    mapLink:'Pulls Ferry, Ferry Lane, Norwich',
+    mapLink:'Pulls%20Ferry,%20Ferry%20Lane,%20Norwich',
   },
   {
     name:'Elm Hill',
@@ -178,7 +178,7 @@ export const Activitys = [
     image:'https://thirdeyetraveller.com/wp-content/uploads/elm-hill-norwich-21-720x540.jpg',
     infoLink: 'https://thirdeyetraveller.com/elm-hill-norwich/',
     text: 'Legend has it that during Queen Elizabeth I\'s reign, she passed through Norwich and encountered a condemned prisoner on Elm Hill. Moved by the prisoner\'s plea for mercy, she granted a royal reprieve, sparing their life. Though it\'s a story shrouded in legend, the tale adds a fascinating layer to Elm Hill\'s history, linking it to royal compassion and mercy during a significant era in England\'s past.',
-    mapLink:'Elm Hill, Norwich',
+    mapLink:'Elm%20Hill,%20Norwich',
   },
   {
     name:'Norwich Cathedral',
@@ -186,7 +186,7 @@ export const Activitys = [
     image:'https://anotherheader.files.wordpress.com/2012/04/dsc_3273-edit1.jpg?w=1024',
     infoLink: 'https://www.number10theabbey.co.uk/10-things-didnt-know-norwich-cathedral/',
     text: 'Norwich Cathedral, built over 50 years starting in 1096, witnessed pivotal moments in history. Notably, King Henry VII honored its halls with a visit in 1487. Anne Boleyn, destined to become Henry VIII\'s second wife, graced its sacred spaces during her lifetime.',
-    mapLink:'norwich cathedral',
+    mapLink:'norwich%20cathedral',
   },
  
   {
@@ -195,7 +195,7 @@ export const Activitys = [
     image:'https://lh3.googleusercontent.com/p/AF1QipP4e00VEuMr8Vh3C1IsUK8oueF0MHC7WiPwfqJt=s680-w680-h510',
     infoLink: 'https://www.visitnorwich.co.uk/service/norwich-market/',
     text: 'Norwich Market is an attractive and vibrant mix of food, crafts, flowers, services and much more. One of the oldest and largest outdoor markets in the country, it has 189 stalls trading Monday to Saturday, with a handful open on Sundays.',
-    mapLink:'Norwich Market',
+    mapLink:'Norwich%20Market',
   },
   {
     name:'norfolk broads',
@@ -203,7 +203,7 @@ export const Activitys = [
     image:'https://www.norfolkholidaycottages.uk/wp-content/uploads/2022/01/norfolk-broads1.jpg',
     infoLink: 'https://www.visitthebroads.co.uk/the-blog/exploring-the-broads-by-bus-from-norwich',
     text: 'If you are starting in any of the major settlements of Norfolk & Suffolk, the Broads National Park is relatively well served by buses. Taking public transport over taking the car is one of the simplest ways to reduce your carbon footprint when visiting the National Park',
-    mapLink:'The Broads, Norwich',
+    mapLink:'The%20Broads,%20Norwich',
   },
   {
     name:'Cow Tower',
@@ -211,7 +211,7 @@ export const Activitys = [
     image:'https://www.norwich360.com/Resources2x/cowtower2@2x.jpg',
     infoLink: 'https://www.english-heritage.org.uk/visit/places/cow-tower-norwich/history/',
     text: 'The tower was intended to house guns and a garrison of gunners to defend the approach to the city across the River Wensum. Its height of over 15 metres (49 feet) was necessary to overlook the high ground on the opposite bank.',
-    mapLink:'Cow Tower, Cotman Fields, Norwich',
+    mapLink:'Cow%20Tower,%20Cotman%20Fields,%20Norwich',
   },
   {
     name:'Plantation Garden',
@@ -219,7 +219,7 @@ export const Activitys = [
     image:'https://lh3.googleusercontent.com/p/AF1QipOfK7lPx51E5jdKL7jSMh83ZX5d0gL1YzH4DbMT=s680-w680-h510',
     infoLink: 'https://www.visitnorwich.co.uk/service/plantation-garden/',
     text: 'Around a 10-minute stroll from the market, seeing Plantation Garden is one of the best things to do in Norwich on a sunny day. Now, these Victorian Gardens might be relatively small but they’re totally lovely and well worth a little stroll whilst exploring the city.',
-    mapLink:'The Plantation Garden, Earlham Road, Norwich',
+    mapLink:'The%20Plantation%20Garden,%20Earlham%20Road,%20Norwich',
   },
   {
     name:'Norwich Castle',
@@ -227,7 +227,7 @@ export const Activitys = [
     image:'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/59/78/e1/20160521-150503-01-largejpg.jpg?w=1200&h=-1&s=1',
     infoLink: 'https://www.visitnorwich.co.uk/service/norwich-castle-2/',
     text: 'Norwich Castle is a medieval royal fortification in the city of Norwich, in the English county of Norfolk. William the Conqueror ordered its construction in the aftermath of the Norman Conquest of England. The castle was used as a gaol from 1220 to 1887. In 1894 the Norwich Museum moved to Norwich Castle',
-    mapLink:'Norwich Castle, Castle Street, Norwich',
+    mapLink:'Norwich%20Castle,%20Castle%20Street,%20Norwich',
   },  
   {
     name:'Ethelbert Gate',
@@ -235,7 +235,7 @@ export const Activitys = [
     image:'https://live.staticflickr.com/65535/51373776999_2984d11f54_b.jpg',
     infoLink: 'https://historicengland.org.uk/services-skills/education/educational-images/st-ethelberts-gate-the-close-norwich-9095',
     text: 'This gate to the cathedral close dates from c1316. It was built to replace an earlier gate that was burnt down during riots in 1272. In 1316 there was a payment for £115 towards the gate and by 1317 the gates themselves had been made. It has a chapel dedicated to St Ethelbert over the gateway. It was restored in 1815 by W. Wilkins.',
-    mapLink:'The Ethelbert Gate',
+    mapLink:'The%20Ethelbert%20Gate',
   },
   {
     name:'Strangers\' Hall',
@@ -243,7 +243,7 @@ export const Activitys = [
     image:'https://a.travel-assets.com/findyours-php/viewfinder/images/res70/299000/299668-Strangers-Hall-Garden.jpg',
     infoLink: 'https://www.museums.norfolk.gov.uk/strangers-hall',
     text: 'Domestic history museum in a 14th-century Tudor house with period furniture replicas & a garden.',
-    mapLink:'Strangers\' Hall, Charing Cross, Norwich',
+    mapLink:'Strangers\'%20Hall,%20Charing%20Cross,%20Norwich',
   },
   {
     name:'The Royal Arcade',
@@ -251,7 +251,7 @@ export const Activitys = [
     image:'https://media.rightmove.co.uk/dir/77k/76023/141010232/76023_32669415_IMG_01_0000_max_656x437.jpeg',
     infoLink: 'https://media.rightmove.co.uk/dir/77k/76023/141010232/76023_32669415_IMG_01_0000_max_656x437.jpeg',
     text: 'It’s a great little place to wander and is open every day of the week. Plus, it’s covered which all makes it a great little spot if you get caught up in the rain. ',
-    mapLink:'The Royal Arcade, Norwich',
+    mapLink:'The%20Royal%20Arcade,%20Norwich',
   },
   {
     name:'slay vintage',
@@ -259,6 +259,7 @@ export const Activitys = [
     image:'https://cdn.visitnorwich.co.uk/app/uploads/2023/01/Slayyy-Vintage-813x700.png',
     infoLink: 'https://slayyyvintage.com/',
     text: '90s vintage clothing store in Norwich, we specialise unisex t-shirts, jeans, sweatshirts, hoodies, and reworked vintage',
-    mapLink:'Slayyy Vintage, Saint Giles Street, Norwich',
+    mapLink:'Slayyy%20Vintage,%20Saint%20Giles%20Street,%20Norwich',
   },
+
 ]
