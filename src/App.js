@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import Hero from "./components/Hero";
+import classes from "./app.module.css";
+import { Destination } from "./components/Destination";
+import Housing from "./components/Housing";
+import { useState } from "react";
+import Accommodation from "./components/Accommodation";
 
 function App() {
+  const [isActive, setIsActive] = useState('norwich')
+  
+
+  const handleClick = (result) => {
+    setIsActive(result)
+  }
+
+  console.log("411px × 851px");
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={classes.app}>
+      <Hero />
+      <Housing onIsActive={(result) => handleClick(result)} isActive={isActive} />
+      {isActive === 'accommodation' && <Accommodation/> }
+      {isActive === 'norwich' && <Destination />}
     </div>
   );
 }

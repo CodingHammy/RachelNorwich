@@ -1,0 +1,42 @@
+.buttonContainer {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 5px;
+  background-color: var(--color-darkBrown);
+  padding-top: 10px;
+}
+
+.button {
+  /* Resetting default button styles */
+  appearance: none;
+  /* Removes default system styles */
+  background-color: rgba(175 111 53/ .5);
+  ;
+
+  /* Removes default background color */
+  border: none;
+  /* Removes default border */
+  padding: 20px 20px 5px 20px;
+  /* Resets padding */
+  margin: 0;
+  /* Resets margin */
+  font-family: inherit;
+  /* Inherits font styles */
+  font-size: inherit;
+  /* Inherits font size */
+  cursor: pointer;
+  /* Displays cursor as pointer */
+  /* Additional styles based on your design */
+  color: #000;
+  /* Set text color */
+  text-decoration: none;
+  /* Removes underline */
+  font-weight: 500;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.active {
+  background-color: var(--color-orangeBrown);
+}
