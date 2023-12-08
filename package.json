@@ -2,7 +2,7 @@
   "name": "christmas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CodingHammy.github.io/christmas",
+  "homepage": "https://CodingHammy.github.io/RachelNorwich",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "homepage": "https://CodingHammy.github.io/RachelNorwich",
+    "deploy": "gh-pages -d build -b main -r git@github.com:CodingHammy/RachelNorwich.git",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
