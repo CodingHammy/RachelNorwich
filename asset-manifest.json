@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RachelNorwich/static/css/main.3e77fb51.css",
-    "main.js": "/RachelNorwich/static/js/main.c8c73749.js",
+    "main.js": "/RachelNorwich/static/js/main.98c4ba8f.js",
     "index.html": "/RachelNorwich/index.html",
     "main.3e77fb51.css.map": "/RachelNorwich/static/css/main.3e77fb51.css.map",
-    "main.c8c73749.js.map": "/RachelNorwich/static/js/main.c8c73749.js.map"
+    "main.98c4ba8f.js.map": "/RachelNorwich/static/js/main.98c4ba8f.js.map"
   },
   "entrypoints": [
     "static/css/main.3e77fb51.css",
-    "static/js/main.c8c73749.js"
+    "static/js/main.98c4ba8f.js"
   ]
 }
