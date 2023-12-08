@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RachelNorwich/static/css/main.3e77fb51.css",
+    "main.js": "/RachelNorwich/static/js/main.f3e57317.js",
+    "index.html": "/RachelNorwich/index.html",
+    "main.3e77fb51.css.map": "/RachelNorwich/static/css/main.3e77fb51.css.map",
+    "main.f3e57317.js.map": "/RachelNorwich/static/js/main.f3e57317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e77fb51.css",
+    "static/js/main.f3e57317.js"
+  ]
+}
